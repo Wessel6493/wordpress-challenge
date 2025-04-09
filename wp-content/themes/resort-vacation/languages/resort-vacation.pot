@@ -1,0 +1,876 @@
+# Copyright (C) 2024 themeignite
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Resort Vacation 1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/resort-vacation\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-24T16:35:28+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: resort-vacation\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Resort Vacation"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.themeignite.com/products/free-resort-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Resort Vacation is a stunning and versatile WordPress theme designed specifically for resorts, hotels, and vacation rentals. It offers a perfect blend of functionality and aesthetic appeal, making it an ideal choice for showcasing luxurious vacation destinations. This theme is crafted to provide an engaging user experience with its modern and sophisticated design, ensuring that your website stands out in the competitive hospitality industry. One of the key benefits of the Resort Vacation WordPress Theme is its user-friendly interface. It is designed to be easy to navigate, allowing potential guests to find the information they need quickly and effortlessly. The theme is fully responsive, ensuring that your site looks beautiful on all devices, from desktops to smartphones. Its retina-ready design guarantees that images and graphics appear crisp and vibrant, enhancing the overall visual appeal of your site. The theme comes with a range of powerful features tailored to the needs of resort and vacation rental businesses. It includes customizable booking forms, allowing guests to book their stay directly through your website. The integrated room and rates management system lets you display detailed information about your accommodations, including photos, descriptions, and pricing. Additionally, the theme supports stunning image sliders and galleries, perfect for showcasing the beauty of your property and surrounding areas."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "themeignite"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.themeignite.com/"
+msgstr ""
+
+#: 404.php:19
+#: inc/customizer.php:976
+msgid "404"
+msgstr ""
+
+#: 404.php:20
+#: inc/customizer.php:989
+msgid "Sorry, that page can't be found!"
+msgstr ""
+
+#: 404.php:23
+msgid "Homepage"
+msgstr ""
+
+#: comments.php:28
+msgid "Comments"
+msgstr ""
+
+#: comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:45
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:71
+#: sidebar.php:30
+msgid "secondsidebar"
+msgstr ""
+
+#: footer.php:72
+#: sidebar.php:31
+msgid "Archive List"
+msgstr ""
+
+#: footer.php:78
+#: sidebar.php:37
+msgid "thirdsidebar"
+msgstr ""
+
+#: footer.php:79
+#: sidebar.php:38
+msgid "Recent Posts"
+msgstr ""
+
+#: footer.php:96
+#: sidebar.php:55
+msgid "fourthsidebar"
+msgstr ""
+
+#: footer.php:97
+#: sidebar.php:56
+msgid "Categories"
+msgstr ""
+
+#: footer.php:109
+msgid "Tags"
+msgstr ""
+
+#: functions.php:44
+msgid "Primary Left"
+msgstr ""
+
+#: functions.php:45
+msgid "Primary Right"
+msgstr ""
+
+#: functions.php:46
+msgid "Primary Mobile Media"
+msgstr ""
+
+#: functions.php:113
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:122
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:132
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:142
+msgid "Footer Three"
+msgstr ""
+
+#: functions.php:152
+msgid "Footer Four"
+msgstr ""
+
+#: functions.php:416
+#: inc/getting-started/getting-started.php:15
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:64
+msgid "Getting Started"
+msgstr ""
+
+#: functions.php:418
+msgid "Free Documentation"
+msgstr ""
+
+#: header.php:34
+msgid "Skip to content (Press Enter)"
+msgstr ""
+
+#: header.php:45
+msgid "Mobile"
+msgstr ""
+
+#: inc/custom-header.php:35
+msgctxt "header image description"
+msgid "Default Banner"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Choose Post"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Default section provided by wordpress customizer."
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Show / Hide Site Title"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Show / Hide Tagline"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer.php:137
+#: inc/customizer.php:151
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Show / Hide Post Heading"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Show / Hide Post Meta"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Show / Hide Post Image"
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "Show / Hide Post Content"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "Show Read More Button"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "Show / Hide Single Post Meta"
+msgstr ""
+
+#: inc/customizer.php:284
+msgid "Show / Hide Single Post Content"
+msgstr ""
+
+#: inc/customizer.php:297
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:315
+msgid "Show / Hide Preloader"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid "Show / Hide Scroll To Top"
+msgstr ""
+
+#: inc/customizer.php:345
+msgid "Scroll Top Icon"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Menu Font Weight"
+msgstr ""
+
+#: inc/customizer.php:363
+msgid "100 - Thin"
+msgstr ""
+
+#: inc/customizer.php:364
+msgid "200 - Extra Light"
+msgstr ""
+
+#: inc/customizer.php:365
+msgid "300 - Light"
+msgstr ""
+
+#: inc/customizer.php:366
+msgid "400 - Normal"
+msgstr ""
+
+#: inc/customizer.php:367
+msgid "500 - Medium"
+msgstr ""
+
+#: inc/customizer.php:368
+msgid "600 - Semi Bold"
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "700 - Bold"
+msgstr ""
+
+#: inc/customizer.php:370
+msgid "800 - Extra Bold"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "900 - Black"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Menu Text Transform"
+msgstr ""
+
+#: inc/customizer.php:387
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:388
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer.php:389
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "Header Section Settings"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Show Header"
+msgstr ""
+
+#: inc/customizer.php:437
+msgid "Add Phone"
+msgstr ""
+
+#: inc/customizer.php:449
+msgid "Phone Icon"
+msgstr ""
+
+#: inc/customizer.php:466
+msgid "Show Search Icon"
+msgstr ""
+
+#: inc/customizer.php:477
+msgid "Search Icon"
+msgstr ""
+
+#: inc/customizer.php:497
+msgid "Add Sign Up URL"
+msgstr ""
+
+#: inc/customizer.php:509
+msgid "Sign Up Icon"
+msgstr ""
+
+#: inc/customizer.php:521
+msgid "Social Media Section Settings"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Show Social Icon"
+msgstr ""
+
+#: inc/customizer.php:558
+msgid "Add Facebook Link"
+msgstr ""
+
+#: inc/customizer.php:577
+msgid "Add Twitter Link"
+msgstr ""
+
+#: inc/customizer.php:596
+msgid "Add Instagram Link"
+msgstr ""
+
+#: inc/customizer.php:615
+msgid "Add Pintrest Link"
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Add Youtube Link"
+msgstr ""
+
+#: inc/customizer.php:653
+msgid "Add Linkedin Link"
+msgstr ""
+
+#: inc/customizer.php:667
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:668
+msgid "Customize Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:676
+msgid "Slider Section Settings"
+msgstr ""
+
+#: inc/customizer.php:695
+msgid "Show Slider"
+msgstr ""
+
+#: inc/customizer.php:713
+msgid "Slider Extra Title"
+msgstr ""
+
+#: inc/customizer.php:744
+msgid "Select Category to display Slider Post"
+msgstr ""
+
+#: inc/customizer.php:753
+msgid "Discovery Section"
+msgstr ""
+
+#: inc/customizer.php:772
+msgid "Show Blog"
+msgstr ""
+
+#: inc/customizer.php:788
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:816
+msgid "Select Category to display Details"
+msgstr ""
+
+#: inc/customizer.php:833
+msgid "Square Feet Area "
+msgstr ""
+
+#: inc/customizer.php:852
+msgid "Count for Guest "
+msgstr ""
+
+#: inc/customizer.php:871
+msgid "Room Rent "
+msgstr ""
+
+#: inc/customizer.php:887
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:904
+msgid "Copyright Info"
+msgstr ""
+
+#: inc/customizer.php:922
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer.php:923
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr ""
+
+#: inc/customizer.php:947
+msgid "Footer Widget Area Background Color"
+msgstr ""
+
+#: inc/customizer.php:958
+msgid "404 Page Settings"
+msgstr ""
+
+#: inc/customizer.php:970
+msgid "404 Page Image"
+msgstr ""
+
+#: inc/customizer.php:983
+#: inc/customizer.php:996
+msgid "Heading"
+msgstr ""
+
+#: inc/extra.php:91
+msgid "&copy; "
+msgstr ""
+
+#: inc/extra.php:91
+msgid "Y"
+msgstr ""
+
+#: inc/extra.php:92
+msgid ". All Rights Reserved."
+msgstr ""
+
+#: inc/extra.php:95
+msgid " By "
+msgstr ""
+
+#: inc/extra.php:95
+msgid "Themeignite"
+msgstr ""
+
+#: inc/extra.php:96
+msgid " Powered By %s"
+msgstr ""
+
+#: inc/extra.php:96
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/extra.php:129
+msgid "Name*"
+msgstr ""
+
+#: inc/extra.php:129
+#: inc/extra.php:133
+msgid "Name"
+msgstr ""
+
+#: inc/extra.php:130
+msgid "Email*"
+msgstr ""
+
+#: inc/extra.php:130
+#: inc/extra.php:135
+msgid "Email"
+msgstr ""
+
+#: inc/extra.php:137
+msgid "Website"
+msgstr ""
+
+#: inc/extra.php:150
+msgid "Comment"
+msgstr ""
+
+#: inc/extra.php:325
+msgid "For Booking Call us @"
+msgstr ""
+
+#: inc/extra.php:374
+msgid "Logout"
+msgstr ""
+
+#: inc/extra.php:376
+msgid "Login"
+msgstr ""
+
+#: inc/extra.php:382
+msgid "Sign Up"
+msgstr ""
+
+#: inc/extra.php:480
+msgctxt "placeholder"
+msgid "Search Icon"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:52
+msgid "You will find everything you need to get started with %1$s below."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:73
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:15
+msgid "Theme Feature"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:16
+msgid "Basic Version"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:17
+msgid "Premium Version"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:23
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:28
+msgid "Custom Navigation Logo Or Text"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:33
+msgid "Hide Logo Text"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:39
+msgid "Premium Support"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:44
+msgid "Fully SEO Optimized"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:49
+msgid "Recent Posts Widget"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:55
+msgid "Easy Google Fonts"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:60
+msgid "Pagespeed Plugin"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:65
+msgid "Only Show Header Image On Front Page"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:70
+msgid "Show Header Everywhere"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:75
+msgid "Custom Text On Header Image"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:80
+msgid "Full Width (Hide Sidebar)"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:85
+msgid "Only Show Upper Widgets On Front Page"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:90
+msgid "Replace Copyright Text"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:95
+msgid "Customize Upper Widgets Colors"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:100
+msgid "Customize Navigation Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:105
+msgid "Customize Post/Page Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:110
+msgid "Customize Blog Feed Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:115
+msgid "Customize Footer Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:120
+msgid "Customize Sidebar Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:125
+msgid "Customize Background Color"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:130
+msgid "Importable Demo Content\t"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:137
+#: inc/getting-started/tabs/link-panel.php:24
+msgid "View Premium Version"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:138
+msgid "View Pro"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid " VISIT FREE DOCUMENTATION"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you a newcomer to the WordPress universe? Our comprehensive and user-friendly documentation guide is designed to assist you in effortlessly building a captivating and interactive website, even if you lack any coding expertise or prior experience. Follow our step-by-step instructions to create a visually appealing and engaging online presence."
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "FREE DOCUMENTATION"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Review"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "If you are passionate about the Resort Vacation theme, we would love to hear your thoughts and feedback regarding our theme. Your review will be highly valuable to us as we strive to enhance and improve our theme based on the needs and preferences of our users. Your opinion matters, and we sincerely appreciate your time and effort in sharing your experience with the Resort Vacation theme."
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "Visit the Review"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "REVIEW"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:28
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "CONTACT SUPPORT"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Thank you for choosing Resort Vacation! We appreciate your interest in our theme and are here to assist you with any support you may need."
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Support"
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "THEME DEMO"
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "GO PRO"
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:17
+msgid "PRO DOCUMENTATION "
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:22
+msgid ""
+"The Pro version of our theme offers a seamless website customization experience with its intuitive interface. With just a few clicks, you can effortlessly transform the look and feel of your website. Enjoy the freedom to personalize various elements such as colors, background images, patterns, and fonts, elevating your website s aesthetics and brand identity.In addition, the Pro theme goes beyond the basic features of the free version by providing an expanded selection of homepage sections. This enables you to effectively showcase your organizations services and offerings, empowering the growth of your business or cause. Moreover, the Pro version includes a wide range of professionally designed page templates, giving you a head start in creating impactful web pages with ease.\n"
+"            To ensure a top-notch experience, the Pro version receives regular updates, ensuring compatibility with the latest web technologies and maintaining optimal performance. Additionally, our dedicated support team is readily available to address any questions or concerns you may have, providing timely assistance when you need it most."
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:25
+msgid "Read more about the features here"
+msgstr ""
+
+#: inc/info.php:108
+msgid "Resort Vacation PRO"
+msgstr ""
+
+#: inc/info.php:114
+msgid "Lite Documentation"
+msgstr ""
+
+#: inc/info.php:127
+msgid "Pro Available"
+msgstr ""
+
+#: inc/info.php:141
+msgid "For Reference"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:88
+msgid ", "
+msgstr ""
+
+#: inc/widget-social-links.php:26
+msgid "TI: Social Links"
+msgstr ""
+
+#: inc/widget-social-links.php:27
+msgid "A Social Links Widget"
+msgstr ""
+
+#: inc/widget-social-links.php:57
+#: inc/widget-social-links.php:103
+msgid "Facebook"
+msgstr ""
+
+#: inc/widget-social-links.php:59
+#: inc/widget-social-links.php:108
+msgid "Instagram"
+msgstr ""
+
+#: inc/widget-social-links.php:61
+#: inc/widget-social-links.php:113
+msgid "Twitter"
+msgstr ""
+
+#: inc/widget-social-links.php:63
+#: inc/widget-social-links.php:118
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widget-social-links.php:65
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widget-social-links.php:67
+#: inc/widget-social-links.php:128
+msgid "YouTube"
+msgstr ""
+
+#: inc/widget-social-links.php:69
+#: inc/widget-social-links.php:133
+msgid "Tiktok"
+msgstr ""
+
+#: inc/widget-social-links.php:98
+msgid "Title"
+msgstr ""
+
+#: inc/widget-social-links.php:123
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/woocommerce-functions.php:45
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:47
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: search.php:17
+msgid "Search Result"
+msgstr ""
+
+#: search.php:20
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#: sections/section-featured-banner.php:43
+msgid "View All Travels"
+msgstr ""
+
+#: sidebar.php:19
+msgid "firstsidebar"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:23
+msgid "Search for:"
+msgstr ""
+
+#: sidebar.php:24
+msgid "Search..."
+msgstr ""
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-audio.php:73
+#: template-parts/content-gallery.php:52
+#: template-parts/content-image.php:43
+#: template-parts/content-single.php:34
+#: template-parts/content-video.php:73
+#: template-parts/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-audio.php:80
+#: template-parts/content-gallery.php:59
+#: template-parts/content-image.php:50
+#: template-parts/content-page.php:19
+#: template-parts/content-single.php:43
+#: template-parts/content-video.php:80
+#: template-parts/content.php:62
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content.php:72
+msgid "Read More"
+msgstr ""

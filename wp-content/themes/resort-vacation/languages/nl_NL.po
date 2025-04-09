@@ -1,0 +1,855 @@
+# Copyright (C) 2024 themeignite
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Resort Vacation 1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/resort-vacation\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-24T16:35:28+05:30\n"
+"PO-Revision-Date: 2024-08-24 16:56+0530\n"
+"X-Generator: Poedit 2.3\n"
+"X-Domain: resort-vacation\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+
+#. Description of the theme
+#: style.css
+msgid "Resort Vacation is a stunning and versatile WordPress theme designed specifically for resorts, hotels, and vacation rentals. It offers a perfect blend of functionality and aesthetic appeal, making it an ideal choice for showcasing luxurious vacation destinations. This theme is crafted to provide an engaging user experience with its modern and sophisticated design, ensuring that your website stands out in the competitive hospitality industry. One of the key benefits of the Resort Vacation WordPress Theme is its user-friendly interface. It is designed to be easy to navigate, allowing potential guests to find the information they need quickly and effortlessly. The theme is fully responsive, ensuring that your site looks beautiful on all devices, from desktops to smartphones. Its retina-ready design guarantees that images and graphics appear crisp and vibrant, enhancing the overall visual appeal of your site. The theme comes with a range of powerful features tailored to the needs of resort and vacation rental businesses. It includes customizable booking forms, allowing guests to book their stay directly through your website. The integrated room and rates management system lets you display detailed information about your accommodations, including photos, descriptions, and pricing. Additionally, the theme supports stunning image sliders and galleries, perfect for showcasing the beauty of your property and surrounding areas."
+msgstr ""
+
+#. Theme Name of the theme
+#: style.css
+msgid "Resort Vacation"
+msgstr "Vakantie Resort"
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.themeignite.com/products/free-resort-wordpress-theme"
+msgstr "https://www.themeignite.com/products/free-resort-wordpress-theme"
+
+#. Author of the theme
+#: style.css
+msgid "themeignite"
+msgstr "themeignite"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.themeignite.com/"
+msgstr "https://www.themeignite.com/"
+
+#: 404.php:19 inc/customizer.php:976 inc/customizer.php:989
+msgid "404"
+msgstr "404"
+
+#: 404.php:20 inc/customizer.php:989
+msgid "Sorry, that page can't be found!"
+msgstr "Sorry, die pagina kan niet worden gevonden!"
+
+#: 404.php:23
+msgid "Homepage"
+msgstr "Homepage"
+
+#: comments.php:28
+msgid "Comments"
+msgstr "Reacties"
+
+#: comments.php:43
+msgid "Comment navigation"
+msgstr "Reactie-navigatie"
+
+#: comments.php:45
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: comments.php:46
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: footer.php:71 sidebar.php:30
+msgid "secondsidebar"
+msgstr "tweede zijbalk"
+
+#: footer.php:72 sidebar.php:31
+msgid "Archive List"
+msgstr "Archieflijst"
+
+#: footer.php:78 sidebar.php:37
+msgid "thirdsidebar"
+msgstr "derde zijbalk"
+
+#: footer.php:79 sidebar.php:38
+msgid "Recent Posts"
+msgstr "Recente berichten"
+
+#: footer.php:96 sidebar.php:55
+msgid "fourthsidebar"
+msgstr "vierde zijbalk"
+
+#: footer.php:97 sidebar.php:56
+msgid "Categories"
+msgstr "Categorieën"
+
+#: footer.php:109
+msgid "Tags"
+msgstr "Tags"
+
+#: functions.php:44
+msgid "Primary Left"
+msgstr "Primair Links"
+
+#: functions.php:45
+msgid "Primary Right"
+msgstr "Primair Rechts"
+
+#: functions.php:46
+msgid "Primary Mobile Media"
+msgstr "Primair Mobiele Media"
+
+#: functions.php:113
+msgid "Right Sidebar"
+msgstr "Rechter zijbalk"
+
+#: functions.php:122
+msgid "Footer One"
+msgstr "Voettekst Eén"
+
+#: functions.php:132
+msgid "Footer Two"
+msgstr "Voettekst Twee"
+
+#: functions.php:142
+msgid "Footer Three"
+msgstr "Voettekst Drie"
+
+#: functions.php:152
+msgid "Footer Four"
+msgstr "Voettekst Vier"
+
+#: functions.php:416 inc/getting-started/getting-started.php:15
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:64
+msgid "Getting Started"
+msgstr "Aan de slag"
+
+#: functions.php:418
+msgid "Free Documentation"
+msgstr "Gratis Documentatie"
+
+#: header.php:34
+msgid "Skip to content (Press Enter)"
+msgstr "Sla over naar inhoud (druk op Enter)"
+
+#: header.php:45
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: inc/custom-header.php:35
+msgctxt "header image description"
+msgid "Default Banner"
+msgstr "Standaard Banner"
+
+#: inc/customizer.php:18
+msgid "Static Front Page"
+msgstr "Statische Startpagina"
+
+#: inc/customizer.php:24
+msgid "Choose Post"
+msgstr "Kies Bericht"
+
+#: inc/customizer.php:40
+msgid "Choose Category"
+msgstr "Kies Categorie"
+
+#: inc/customizer.php:52
+msgid "Default Settings"
+msgstr "Standaardinstellingen"
+
+#: inc/customizer.php:53
+msgid "Default section provided by wordpress customizer."
+msgstr "Standaardsectie verstrekt door de WordPress Customizer."
+
+#: inc/customizer.php:81
+msgid "Show / Hide Site Title"
+msgstr "Toon / Verberg Sitetitel"
+
+#: inc/customizer.php:99
+msgid "Show / Hide Tagline"
+msgstr "Toon / Verberg Tagline"
+
+#: inc/customizer.php:111
+msgid "Logo Width"
+msgstr "Logo Breedte"
+
+#: inc/customizer.php:127
+msgid "Post Settings"
+msgstr "Berichtinstellingen"
+
+#: inc/customizer.php:137 inc/customizer.php:151
+msgid "Excerpt Length"
+msgstr "Lengte Samenvatting"
+
+#: inc/customizer.php:169
+msgid "Show / Hide Post Heading"
+msgstr "Toon / Verberg Berichtkop"
+
+#: inc/customizer.php:187
+msgid "Show / Hide Post Meta"
+msgstr "Toon / Verberg Bericht Meta"
+
+#: inc/customizer.php:205
+msgid "Show / Hide Post Image"
+msgstr "Toon / Verberg Bericht Afbeelding"
+
+#: inc/customizer.php:223
+msgid "Show / Hide Post Content"
+msgstr "Toon / Verberg Berichtinhoud"
+
+#: inc/customizer.php:237
+msgid "Show Read More Button"
+msgstr "Toon Lees Meer Knop"
+
+#: inc/customizer.php:248
+msgid "Single Post Settings"
+msgstr "Instellingen Enkel Bericht"
+
+#: inc/customizer.php:266
+msgid "Show / Hide Single Post Meta"
+msgstr "Toon / Verberg Enkel Bericht Meta"
+
+#: inc/customizer.php:284
+msgid "Show / Hide Single Post Content"
+msgstr "Toon / Verberg Enkel Berichtinhoud"
+
+#: inc/customizer.php:297
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: inc/customizer.php:315
+msgid "Show / Hide Preloader"
+msgstr "Toon / Verberg Preloader"
+
+#: inc/customizer.php:333
+msgid "Show / Hide Scroll To Top"
+msgstr "Toon / Verberg Scroll Naar Boven"
+
+#: inc/customizer.php:345
+msgid "Scroll Top Icon"
+msgstr "Scroll Naar Boven Icoon"
+
+#: inc/customizer.php:359
+msgid "Menu Font Weight"
+msgstr "Menu Lettertype Gewicht"
+
+#: inc/customizer.php:363
+msgid "100 - Thin"
+msgstr "100 - Dun"
+
+#: inc/customizer.php:364
+msgid "200 - Extra Light"
+msgstr "200 - Extra Licht"
+
+#: inc/customizer.php:365
+msgid "300 - Light"
+msgstr "300 - Licht"
+
+#: inc/customizer.php:366
+msgid "400 - Normal"
+msgstr "400 - Normaal"
+
+#: inc/customizer.php:367
+msgid "500 - Medium"
+msgstr "500 - Medium"
+
+#: inc/customizer.php:368
+msgid "600 - Semi Bold"
+msgstr "600 - Semi Vet"
+
+#: inc/customizer.php:369
+msgid "700 - Bold"
+msgstr "700 - Vet"
+
+#: inc/customizer.php:370
+msgid "800 - Extra Bold"
+msgstr "800 - Extra Vet"
+
+#: inc/customizer.php:371
+msgid "900 - Black"
+msgstr "900 - Zwart"
+
+#: inc/customizer.php:383
+msgid "Menu Text Transform"
+msgstr "Menu Teksttransformatie"
+
+#: inc/customizer.php:387
+msgid "None"
+msgstr "Geen"
+
+#: inc/customizer.php:388
+msgid "Capitalize"
+msgstr "Hoofdletter"
+
+#: inc/customizer.php:389
+msgid "Uppercase"
+msgstr "Hoofdletters"
+
+#: inc/customizer.php:390
+msgid "Lowercase"
+msgstr "Kleine letters"
+
+#: inc/customizer.php:400
+msgid "Header Section Settings"
+msgstr "Instellingen Koptekstsectie"
+
+#: inc/customizer.php:418
+msgid "Show Header"
+msgstr "Toon Koptekst"
+
+#: inc/customizer.php:437
+msgid "Add Phone"
+msgstr "Voeg Telefoon Toe"
+
+#: inc/customizer.php:449
+msgid "Phone Icon"
+msgstr "Telefoon Icoon"
+
+#: inc/customizer.php:466
+msgid "Show Search Icon"
+msgstr "Toon Zoekicoon"
+
+#: inc/customizer.php:477
+msgid "Search Icon"
+msgstr "Zoekicoon"
+
+#: inc/customizer.php:497
+msgid "Add Sign Up URL"
+msgstr "Voeg Aanmeld-URL Toe"
+
+#: inc/customizer.php:509
+msgid "Sign Up Icon"
+msgstr "Aanmeldicoon"
+
+#: inc/customizer.php:521
+msgid "Social Media Section Settings"
+msgstr "Instellingen Sociale Media Sectie"
+
+#: inc/customizer.php:539
+msgid "Show Social Icon"
+msgstr "Toon Sociaal Icoon"
+
+#: inc/customizer.php:558
+msgid "Add Facebook Link"
+msgstr "Voeg Facebook Link Toe"
+
+#: inc/customizer.php:577
+msgid "Add Twitter Link"
+msgstr "Voeg Twitter Link Toe"
+
+#: inc/customizer.php:596
+msgid "Add Instagram Link"
+msgstr "Voeg Instagram Link Toe"
+
+#: inc/customizer.php:615
+msgid "Add Pinterest Link"
+msgstr "Voeg Pinterest Link Toe"
+
+#: inc/customizer.php:634
+msgid "Add Youtube Link"
+msgstr "Voeg Youtube Link Toe"
+
+#: inc/customizer.php:653
+msgid "Add Linkedin Link"
+msgstr "Voeg Linkedin Link Toe"
+
+#: inc/customizer.php:667
+msgid "Home Page Settings"
+msgstr "Instellingen Startpagina"
+
+#: inc/customizer.php:668
+msgid "Customize Home Page Settings"
+msgstr "Pas Instellingen Startpagina Aan"
+
+#: inc/customizer.php:676
+msgid "Slider Section Settings"
+msgstr "Instellingen Slider Sectie"
+
+#: inc/customizer.php:695
+msgid "Show Slider"
+msgstr "Toon Slider"
+
+#: inc/customizer.php:713
+msgid "Slider Extra Title"
+msgstr "Slider Extra Titel"
+
+#: inc/customizer.php:744
+msgid "Select Category to display Slider Post"
+msgstr "Kies Categorie om Slider Bericht Weer te Geven"
+
+#: inc/customizer.php:753
+msgid "Discovery Section"
+msgstr "Ontdekking Sectie"
+
+#: inc/customizer.php:772
+msgid "Show Blog"
+msgstr "Toon Blog"
+
+#: inc/customizer.php:788
+msgid "Section Title"
+msgstr "Sectietitel"
+
+#: inc/customizer.php:816
+msgid "Select Category to display Details"
+msgstr "Kies Categorie om Details Weer te Geven"
+
+#: inc/customizer.php:833
+msgid "Square Feet Area"
+msgstr "Vierkante Voeten Oppervlakte"
+
+#: inc/customizer.php:852
+msgid "Count for Guest"
+msgstr "Aantal voor Gast"
+
+#: inc/customizer.php:871
+msgid "Room Rent"
+msgstr "Kamerrent"
+
+#: inc/customizer.php:887
+msgid "Footer Settings"
+msgstr "Instellingen Voettekst"
+
+#: inc/customizer.php:904
+msgid "Copyright Info"
+msgstr "Copyright Info"
+
+#: inc/customizer.php:922
+msgid "Footer Background Image"
+msgstr "Achtergrondafbeelding Voettekst"
+
+#: inc/customizer.php:923
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "Aanbevolen Grootte %1$s px X %2$s px"
+
+#: inc/customizer.php:947
+msgid "Footer Widget Area Background Color"
+msgstr "Achtergrondkleur Voettekst Widgetgebied"
+
+#: inc/customizer.php:958
+msgid "404 Page Settings"
+msgstr "404 Pagina Instellingen"
+
+#: inc/customizer.php:970
+msgid "404 Page Image"
+msgstr "404 Pagina Afbeelding"
+
+#: inc/customizer.php:983 inc/customizer.php:996
+msgid "Heading"
+msgstr "Koptekst"
+
+#: inc/extra.php:91
+msgid "&copy; "
+msgstr "&copy; "
+
+#: inc/extra.php:91
+msgid "Y"
+msgstr "Y"
+
+#: inc/extra.php:92
+msgid ". All Rights Reserved."
+msgstr ". Alle Rechten Voorbehouden."
+
+#: inc/extra.php:95
+msgid " By "
+msgstr " Door "
+
+#: inc/extra.php:95
+msgid "Themeignite"
+msgstr "Themeignite"
+
+#: inc/extra.php:96
+msgid " Powered By %s"
+msgstr " Aangedreven Door %s"
+
+#: inc/extra.php:96
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/extra.php:129
+msgid "Name*"
+msgstr "Naam*"
+
+#: inc/extra.php:129 inc/extra.php:133
+msgid "Name"
+msgstr "Naam"
+
+#: inc/extra.php:130
+msgid "Email*"
+msgstr "E-mail*"
+
+#: inc/extra.php:130 inc/extra.php:135
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/extra.php:137
+msgid "Website"
+msgstr "Website"
+
+#: inc/extra.php:150
+msgid "Comment"
+msgstr "Commentaar"
+
+#: inc/extra.php:325
+msgid "For Booking Call us @"
+msgstr "Voor Reserveringen Bel ons op"
+
+#: inc/extra.php:374
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: inc/extra.php:376
+msgid "Login"
+msgstr "Inloggen"
+
+#: inc/extra.php:382
+msgid "Sign Up"
+msgstr "Aanmelden"
+
+#: inc/extra.php:480
+msgctxt "placeholder"
+msgid "Search Icon"
+msgstr "Zoekicoon"
+
+#: inc/getting-started/getting-started.php:52
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "Je vindt alles wat je nodig hebt om te beginnen met %1$s hieronder."
+
+#: inc/getting-started/getting-started.php:73
+msgid "Free Vs Pro"
+msgstr "Gratis vs Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:15
+msgid "Theme Feature"
+msgstr "Thema Kenmerk"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:16
+msgid "Basic Version"
+msgstr "Basisversie"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:17
+msgid "Premium Version"
+msgstr "Premium Versie"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:23
+msgid "Header Background Color"
+msgstr "Achtergrondkleur Koptekst"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:28
+msgid "Custom Navigation Logo Or Text"
+msgstr "Aangepast Navigatielogo Of Tekst"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:33
+msgid "Hide Logo Text"
+msgstr "Verberg Logo Tekst"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:39
+msgid "Premium Support"
+msgstr "Premium Ondersteuning"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:44
+msgid "Fully SEO Optimized"
+msgstr "Volledig SEO Geoptimaliseerd"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:49
+msgid "Recent Posts Widget"
+msgstr "Recent Berichten Widget"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:55
+msgid "Easy Google Fonts"
+msgstr "Eenvoudige Google Fonts"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:60
+msgid "Pagespeed Plugin"
+msgstr "Pagespeed Plugin"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:65
+msgid "Only Show Header Image On Front Page"
+msgstr "Toon Alleen Kopafbeelding Op Startpagina"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:70
+msgid "Show Header Everywhere"
+msgstr "Toon Koptekst Overal"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:75
+msgid "Custom Text On Header Image"
+msgstr "Aangepaste Tekst Op Kopafbeelding"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:80
+msgid "Full Width (Hide Sidebar)"
+msgstr "Volledige Breedte (Verberg Zijbalk)"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:85
+msgid "Only Show Upper Widgets On Front Page"
+msgstr "Toon Alleen Bovenste Widgets Op Startpagina"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:90
+msgid "Replace Copyright Text"
+msgstr "Vervang Copyright Tekst"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:95
+msgid "Customize Upper Widgets Colors"
+msgstr "Pas Kleuren Bovenste Widgets Aan"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:100
+msgid "Customize Navigation Color"
+msgstr "Pas Navigatiekleur Aan"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:105
+msgid "Customize Post/Page Color"
+msgstr "Pas Bericht/Pagina Kleur Aan"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:110
+msgid "Customize Blog Feed Color"
+msgstr "Pas Blog Feed Kleur Aan"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:115
+msgid "Customize Footer Color"
+msgstr "Pas Kleur Voettekst Aan"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:120
+msgid "Customize Sidebar Color"
+msgstr "Pas Kleur Zijbalk Aan"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:125
+msgid "Customize Background Color"
+msgstr "Pas Achtergrondkleur Aan"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:130
+msgid "Importable Demo Content\t"
+msgstr "Importeerbare Demo Inhoud\t"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:137
+#: inc/getting-started/tabs/link-panel.php:24
+msgid "View Premium Version"
+msgstr "Bekijk Premium Versie"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:138
+msgid "View Pro"
+msgstr "Bekijk Pro"
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid " VISIT FREE DOCUMENTATION"
+msgstr " BEZOEK GRATIS DOCUMENTATIE"
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you a newcomer to the WordPress universe? Our comprehensive and user-friendly documentation guide is designed to assist you in effortlessly building a captivating and interactive website, even if you lack any coding expertise or prior experience. Follow our step-by-step instructions to create a visually appealing and engaging online presence."
+msgstr "Ben je een nieuwkomer in het WordPress-universum? Onze uitgebreide en gebruiksvriendelijke documentatiehandleiding is ontworpen om je te helpen bij het moeiteloos bouwen van een boeiende en interactieve website, zelfs als je geen codeerervaring of eerdere ervaring hebt. Volg onze stapsgewijze instructies om een visueel aantrekkelijke en betrokken online aanwezigheid te creëren."
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "Bekijk de Documentatie"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "FREE DOCUMENTATION"
+msgstr "GRATIS DOCUMENTATIE"
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Review"
+msgstr "Beoordeling"
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "If you are passionate about the Resort Vacation theme, we would love to hear your thoughts and feedback regarding our theme. Your review will be highly valuable to us as we strive to enhance and improve our theme based on the needs and preferences of our users. Your opinion matters, and we sincerely appreciate your time and effort in sharing your experience with the Resort Vacation theme."
+msgstr "Als je enthousiast bent over het Resort Vacation-thema, horen we graag je gedachten en feedback over ons thema. Je beoordeling zal voor ons zeer waardevol zijn, terwijl we ons best doen om ons thema te verbeteren op basis van de behoeften en voorkeuren van onze gebruikers. Jouw mening telt, en we waarderen oprecht je tijd en moeite om je ervaring met het Resort Vacation-thema te delen."
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "Visit the Review"
+msgstr "Bekijk de Beoordeling"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "REVIEW"
+msgstr "BEWONING"
+
+#: inc/getting-started/tabs/help-panel.php:28
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "CONTACT SUPPORT"
+msgstr "NEEM CONTACT OP MET ONDERSTEUNING"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Thank you for choosing Resort Vacation! We appreciate your interest in our theme and are here to assist you with any support you may need."
+msgstr "Bedankt voor het kiezen van Resort Vacation! We waarderen je interesse in ons thema en staan klaar om je te helpen met alle ondersteuning die je nodig hebt."
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Support"
+msgstr "Bekijk de Ondersteuning"
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "THEME DEMO"
+msgstr "THEMA DEMO"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "GO PRO"
+msgstr "GA PRO"
+
+#: inc/getting-started/tabs/link-panel.php:17
+msgid "PRO DOCUMENTATION"
+msgstr "PRO DOCUMENTATIE"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Upgrade To Pro"
+msgstr "Upgrade Naar Pro"
+
+#: inc/getting-started/tabs/link-panel.php:22
+msgid ""
+"The Pro version of our theme offers a seamless website customization experience with its intuitive interface. With just a few clicks, you can effortlessly transform the look and feel of your website. Enjoy the freedom to personalize various elements such as colors, background images, patterns, and fonts, elevating your website s aesthetics and brand identity.In addition, the Pro theme goes beyond the basic features of the free version by providing an expanded selection of homepage sections. This enables you to effectively showcase your organizations services and offerings, empowering the growth of your business or cause. Moreover, the Pro version includes a wide range of professionally designed page templates, giving you a head start in creating impactful web pages with ease.\n"
+"            To ensure a top-notch experience, the Pro version receives regular updates, ensuring compatibility with the latest web technologies and maintaining optimal performance. Additionally, our dedicated support team is readily available to address any questions or concerns you may have, providing timely assistance when you need it most."
+msgstr ""
+"De Pro-versie van ons thema biedt een naadloze website-aanpassingservaring met zijn intuïtieve interface. Met slechts een paar klikken kun je moeiteloos de uitstraling en het gevoel van je website transformeren. Geniet van de vrijheid om verschillende elementen zoals kleuren, achtergrondafbeeldingen, patronen, en lettertypen aan te passen, waarmee je de esthetiek en merkidentiteit van je website verhoogt. Bovendien biedt het Pro-thema meer dan de basisfuncties van de gratis versie door een uitgebreidere selectie van secties op de startpagina aan te bieden. Dit stelt je in staat om de diensten en aanbiedingen van je organisatie effectief te presenteren, wat de groei van je bedrijf of doel bevordert. Bovendien bevat de Pro-versie een breed scala aan professioneel ontworpen paginatemplates, waarmee je eenvoudig impactvolle webpagina's kunt creëren.\n"
+"Om een uitstekende ervaring te garanderen, ontvangt de Pro-versie regelmatige updates, waarmee compatibiliteit met de nieuwste webtechnologieën wordt gewaarborgd en de prestaties optimaal worden gehouden. Daarnaast staat ons dedicated ondersteuningsteam klaar om eventuele vragen of zorgen te beantwoorden en biedt tijdige hulp wanneer je die het meest nodig hebt."
+
+#: inc/getting-started/tabs/link-panel.php:25
+msgid "Read more about the features here"
+msgstr "Lees hier meer over de functies"
+
+#: inc/info.php:108
+msgid "Resort Vacation PRO"
+msgstr "Resort Vacation PRO"
+
+#: inc/info.php:114
+msgid "Lite Documentation"
+msgstr "Lite Documentatie"
+
+#: inc/info.php:127
+msgid "Pro Available"
+msgstr "Pro Beschikbaar"
+
+#: inc/info.php:141
+msgid "For Reference"
+msgstr "Ter Referentie"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:88
+msgid ", "
+msgstr ", "
+
+#: inc/widget-social-links.php:26
+msgid "TI: Social Links"
+msgstr "TI: Sociale Links"
+
+#: inc/widget-social-links.php:27
+msgid "A Social Links Widget"
+msgstr "Een Sociale Links Widget"
+
+#: inc/widget-social-links.php:57 inc/widget-social-links.php:103
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widget-social-links.php:59 inc/widget-social-links.php:108
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widget-social-links.php:61 inc/widget-social-links.php:113
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widget-social-links.php:63 inc/widget-social-links.php:118
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widget-social-links.php:65
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/widget-social-links.php:67 inc/widget-social-links.php:128
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widget-social-links.php:69 inc/widget-social-links.php:133
+msgid "Tiktok"
+msgstr "Tiktok"
+
+#: inc/widget-social-links.php:98
+msgid "Title"
+msgstr "Titel"
+
+#: inc/widget-social-links.php:123
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/woocommerce-functions.php:45
+msgid "Shop Sidebar"
+msgstr "Winkel Zijbalk"
+
+#: inc/woocommerce-functions.php:47
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Zijbalk die alleen op WooCommerce-pagina's wordt weergegeven."
+
+#: search.php:17
+msgid "Search Result"
+msgstr "Zoekresultaat"
+
+#: search.php:20
+msgid "Search Results for \"%s\""
+msgstr "Zoekresultaten voor \"%s\""
+
+#: sections/section-featured-banner.php:43
+msgid "View All Travels"
+msgstr "Bekijk Alle Reizen"
+
+#: sidebar.php:19
+msgid "firstsidebar"
+msgstr "eerstezijbalk"
+
+#: sidebar.php:20
+msgid "Search"
+msgstr "Zoeken"
+
+#: sidebar.php:23
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+#: sidebar.php:24
+msgid "Search..."
+msgstr "Zoeken..."
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Startpagina"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-audio.php:73 template-parts/content-gallery.php:52
+#: template-parts/content-image.php:43 template-parts/content-single.php:34
+#: template-parts/content-video.php:73 template-parts/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-audio.php:80 template-parts/content-gallery.php:59
+#: template-parts/content-image.php:50 template-parts/content-page.php:19
+#: template-parts/content-single.php:43 template-parts/content-video.php:80
+#: template-parts/content.php:62
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets Gevonden"
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Begin hier</a>."
+
+#: template-parts/content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, maar niets kwam overeen met je zoektermen. Probeer het opnieuw met andere zoekwoorden."
+
+#: template-parts/content-none.php:25
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden wat je zoekt. Misschien kan zoeken helpen."
+
+#: template-parts/content.php:72
+msgid "Read More"
+msgstr "Lees Meer"

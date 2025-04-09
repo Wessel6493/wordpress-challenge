@@ -1,0 +1,76 @@
+<?php
+/**
+ * Template part for displaying posts.
+ *
+ * @link https://codex.wordpress.org/Template_Hierarchy
+ *
+ * @package resort_vacation
+ */
+$resort_vacation_heading_setting  = get_theme_mod( 'resort_vacation_post_heading_setting' , true );
+$resort_vacation_meta_setting  = get_theme_mod( 'resort_vacation_post_meta_setting' , true );
+$resort_vacation_image_setting  = get_theme_mod( 'resort_vacation_post_image_setting' , true );
+$resort_vacation_content_setting  = get_theme_mod( 'resort_vacation_post_content_setting' , true );
+$resort_vacation_readmore_setting = get_theme_mod( 'resort_vacation_readmore_setting', true );
+?>
+
+<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+    <header class="entry-header">
+        <?php
+          if ( $resort_vacation_heading_setting ){ 
+            if ( is_single() ) {
+                the_title( '<h1 class="entry-title" itemprop="headline">', '</h1>' );
+            } else {
+                the_title( '<h2 class="entry-title" itemprop="headline"><a href="' . esc_url( get_permalink() ) . '" rel="bookmark">', '</a></h2>' );
+            }
+          }
+
+        if ( 'post' === get_post_type() ) : ?>
+        <?php
+        if ( $resort_vacation_meta_setting ){ ?>
+            <div class="entry-meta">
+                <?php resort_vacation_posted_on(); ?>
+            </div><!-- .entry-meta -->
+        <?php } ?>
+        <?php
+        endif; ?>
+    </header><!-- .entry-header -->
+    <?php
+    if ( $resort_vacation_image_setting ){
+        echo ( !is_single() ) ? '<a href="' . esc_url( get_the_permalink() ) . '" class="post-thumbnail">' : '<div class="post-thumbnail">'; ?>
+            <?php ( is_active_sidebar( 'right-sidebar' ) ) ? the_post_thumbnail( 'resort-vacation-with-sidebar', array( 'itemprop' => 'image' ) ) : the_post_thumbnail( 'resort-vacation-without-sidebar', array( 'itemprop' => 'image' ) ) ; ?>
+        <?php echo ( !is_single() ) ? '</a>' : '</div>' ;?>
+    <?php } ?>
+    <?php
+    if ( $resort_vacation_content_setting ){ ?>
+        <div class="entry-content" itemprop="text">
+            <?php
+            if( is_single()){
+                the_content( sprintf(
+                    /* translators: %s: Name of current post. */
+                    wp_kses( __( 'Continue reading %s <span class="meta-nav">&rarr;</span>', 'resort-vacation' ), array( 'span' => array( 'class' => array() ) ) ),
+                    the_title( '<span class="screen-reader-text">"', '"</span>', false )
+                ) );
+            } else {
+                $resort_vacation_excerpt_length = get_theme_mod('resort_vacation_post_excerpt_length' ,20);
+                $resort_vacation_content = get_the_content();
+                echo esc_html(wp_trim_words($resort_vacation_content, $resort_vacation_excerpt_length));
+                ?>
+               
+                <?php
+            }
+            wp_link_pages( array(
+                'before' => '<div class="page-links">' . esc_html__( 'Pages:', 'resort-vacation' ),
+                'after'  => '</div>',
+            ) );
+            ?>
+        </div>
+
+    <?php } ?>
+    <div class="read-more-button">
+    <?php if ( $resort_vacation_readmore_setting && ! is_single() ) : ?>
+        <a class="read-more-button" href="<?php echo esc_url( get_permalink() ); ?>">
+            <?php esc_html_e( 'Read More', 'resort-vacation' ); ?> 
+        </a>
+    <?php endif; ?>
+</div>
+</article><!-- #post-## -->
